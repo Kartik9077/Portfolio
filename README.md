@@ -25,13 +25,6 @@ This portfolio is built to reflect my journey as a developer — from frontend a
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](https://kartiksharmaportfolio.netlify.app/preview-image-if-you-have-one.png)
-
-> _Optional: Replace with a screenshot of your website_
-
----
 
 ## 📂 Folder Structure
 
